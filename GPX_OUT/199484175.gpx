@@ -1,0 +1,22 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>10656.07</distance>
+<average_hr>134.0</average_hr>
+<average_speed>2.927000045776367</average_speed>
+<start_time>2022-07-26T23:24:23+00:00</start_time>
+<end_time>2022-07-27T00:25:03.989000+00:00</end_time>
+<moving_time>3613.146</moving_time>
+<elapsed_time>3991.396</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2022-07-26T23:24:23.000Z</time>
+  </metadata>
+  <trk>
+    <name>室内跑步</name>
+    <type>indoor_running</type>
+    <trkseg/>
+  </trk>
+</gpx>
